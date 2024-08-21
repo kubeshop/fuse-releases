@@ -27,6 +27,12 @@ Fuse CLI also supports inline mode, allowing you to execute prompts directly. Ru
 fuse 'list files in the current directory and provide me better organization structure'
 ```
 
+### 💡 Looking for inspiration?
+
+If you are curious what Fuse can do for you, simply run `fuse scenarios` in your terminal!
+
+![scenarios.gif](docs/assets/scenarios.gif)
+
 ## Installation
 
 ### macOS & Linux
