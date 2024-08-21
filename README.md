@@ -4,6 +4,35 @@ The ultimate AI assistant for Platform Engineers, crafted by the Botkube Team.
 
 ![Using fuse in CLI](docs/assets/prompt.gif)
 
+## Usage
+
+After downloading the CLI, you can start experimenting right away!
+
+### Chat mode
+
+To start a session in chat mode, simply run:
+
+```shell
+fuse
+```
+
+### Inline prompting
+
+> [!TIP]
+> When using inline mode, enclose your prompt in single quotation marks (') to prevent your shell from interpreting it.
+
+Fuse CLI also supports inline mode, allowing you to execute prompts directly. Run:
+
+```shell
+fuse 'list files in the current directory and provide me better organization structure'
+```
+
+### 💡 Looking for inspiration?
+
+If you are curious what Fuse can do for you, simply run `fuse scenarios` in your terminal!
+
+![scenarios.gif](docs/assets/scenarios.gif)
+
 ## Installation
 
 ### macOS & Linux
@@ -15,7 +44,6 @@ Fuse is available via [Homebrew](https://brew.sh) and as a downloadable binary f
 | Install                                    | Upgrade                                    |
 |--------------------------------------------|--------------------------------------------|
 | `brew install kubeshop/fuse-releases/fuse` | `brew upgrade kubeshop/fuse-releases/fuse` |
-
 
 <details><summary><strong>Using <code>curl</code> on Linux</strong></summary>
 <p>
@@ -60,11 +88,3 @@ chmod +x fuse && mv fuse /usr/local/bin/fuse
 
 </p>
 </details> 
-
-## Getting Started
-
-After downloading the CLI, you can start experimenting right away:
-
-```shell
-fuse list my GKE instances and their status
-```
