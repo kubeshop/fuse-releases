@@ -1,16 +1,22 @@
+<br/>
 <p align="center">
   <a href="https://botkube.io/fuse">
-    <img src="./docs/assets/fuse-logo-white.svg#gh-dark-mode-only" alt="Botkube Logo Light" />
-    <img src="https://cdn.prod.website-files.com/633705de6adaa38599d8e258/66c852a5dc995f77a6c3ee17_BK_FUSE%20(1).svg#gh-light-mode-only" alt="Botkube Logo Light" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/fuse-logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./docs/assets/fuse-logo-light.svg">
+      <img alt="Botkube Logo" src="">
+    </picture>
   </a>
 </p>
 
 <p align="center">
-  AI-powered expertise with deep domain knowledge at your fingertips; Botkube Fuse delivers tailored guidance for your unique infrastructure, pipelines, and services.
+  Switch Between Your Needs – Not Your Tools
 </p>
 </p>
 
 ## Overview
+
+AI-powered expertise with deep domain knowledge at your fingertips; Botkube Fuse delivers tailored guidance for your unique infrastructure, pipelines, and services.
 
 📖 Read more about Botkube FUse features on [the official website](https://botkube.io/fuse/).
 
