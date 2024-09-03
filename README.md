@@ -1,6 +1,18 @@
-# Fuse
+<p align="center">
+  <a href="https://botkube.io/fuse">
+    <img src="./docs/assets/fuse-logo-white.svg#gh-dark-mode-only" alt="Botkube Logo Light" />
+    <img src="https://cdn.prod.website-files.com/633705de6adaa38599d8e258/66c852a5dc995f77a6c3ee17_BK_FUSE%20(1).svg#gh-light-mode-only" alt="Botkube Logo Light" />
+  </a>
+</p>
 
-The ultimate AI assistant for Platform Engineers, crafted by the Botkube Team.
+<p align="center">
+  AI-powered expertise with deep domain knowledge at your fingertips; Botkube Fuse delivers tailored guidance for your unique infrastructure, pipelines, and services.
+</p>
+</p>
+
+## Overview
+
+📖 Read more about Botkube FUse features on [the official website](https://botkube.io/fuse/).
 
 ![Using fuse in CLI](docs/assets/prompt.gif)
 
