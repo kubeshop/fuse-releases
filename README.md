@@ -18,7 +18,7 @@
 
 AI-powered expertise with deep domain knowledge at your fingertips; Botkube Fuse delivers tailored guidance for your unique infrastructure, pipelines, and services.
 
-📖 Read more about Botkube FUse features on [the official website](https://botkube.io/fuse/).
+📖 Read more about Botkube Fuse features on [the official website](https://botkube.io/fuse/).
 
 ![Using fuse in CLI](docs/assets/prompt.gif)
 
