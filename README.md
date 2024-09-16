@@ -34,6 +34,11 @@ To start a session in chat mode, simply run:
 fuse
 ```
 
+> [!IMPORTANT]
+> Native text selection is disabled in chat mode. To select text, please use the following workaround:
+> - **For Linux:** Press and hold `Shift` while selecting text.
+> - **For macOS:** Press and hold `Option` while selecting text.
+
 ### Inline prompting
 
 > [!TIP]
